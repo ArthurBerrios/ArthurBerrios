@@ -14,7 +14,7 @@ Olá! Eu sou Arthur Berrios, um estudante apaixonado por Tecnologia da Informaç
 
 <!-- Projetos -->
 ## <span style="color:#007acc;">🛠 Projetos</span>
-Explore alguns dos meus [projetos](https://github.com/ArthurBerrios) que demonstram minha experiência e habilidades em diferentes áreas da programação. Fique à vontade para clonar ou contribuir!
+Explore alguns dos meus projetos que demonstram minha experiência e habilidades em diferentes áreas da programação. Fique à vontade!
 
 <!-- Formação -->
 ## <span style="color:#007acc;">🎓 Formação</span>
@@ -23,7 +23,7 @@ Explore alguns dos meus [projetos](https://github.com/ArthurBerrios) que demonst
 
 <!-- Contato -->
 ## <span style="color:#007acc;">📬 Contato</span>
-- **LinkedIn:** [Arthur Berrios]
-- **E-mail:** [arthurbralmeida@gmail.com]
+- **LinkedIn:** Arthur Berrios
+- **E-mail:** arthurbralmeida@gmail.com
 
 <span style="font-size:0.8em; color:#666;">Fique à vontade para entrar em contato para discussões técnicas, colaborações ou apenas para trocar ideias sobre o fascinante mundo da Tecnologia da Informação!</span>
