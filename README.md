@@ -23,7 +23,7 @@ Explore alguns dos meus projetos que demonstram minha experiência e habilidades
 
 <!-- Contato -->
 ## <span style="color:#007acc;">📬 Contato</span>
-- **LinkedIn:** Arthur Berrios
+- **LinkedIn:** linkedin.com/in/arthur-berrios-1662082a8
 - **E-mail:** arthurbralmeida@gmail.com
 
 <span style="font-size:0.8em; color:#666;">Fique à vontade para entrar em contato para discussões técnicas, colaborações ou apenas para trocar ideias sobre o fascinante mundo da Tecnologia da Informação!</span>
