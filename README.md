@@ -14,7 +14,7 @@ Olá! Eu sou Arthur Berrios, um estudante apaixonado por Tecnologia da Informaç
 
 <!-- Projetos -->
 ## <span style="color:#007acc;">🛠 Projetos</span>
-Explore alguns dos meus [projetos](link_para_projetos) que demonstram minha experiência e habilidades em diferentes áreas da programação. Fique à vontade para clonar ou contribuir!
+Explore alguns dos meus [projetos](https://github.com/ArthurBerrios) que demonstram minha experiência e habilidades em diferentes áreas da programação. Fique à vontade para clonar ou contribuir!
 
 <!-- Formação -->
 ## <span style="color:#007acc;">🎓 Formação</span>
