@@ -3,7 +3,7 @@
 
 <!-- Sobre Mim -->
 ## <span style="color:#007acc;">👨‍💻 Sobre Mim</span>
-Olá! Eu sou Arthur Berrios, um estudante apaixonado por Tecnologia da Informação. Atualmente, estou cursando Sistemas de Informação na Universidade Paulista (UNIP) e possuo formação técnica em Desenvolvimento de Sistemas pela Escola Técnica de São Paulo.
+Olá! Eu sou Arthur Berrios, um jovem estudante apaixonado por Tecnologia da Informação, em busca de oportunidades para aplicar e expandir meus conhecimentos. Comprometido em aprender sempre, sou motivado e procuro novas experiências.
 
 <!-- Competências -->
 ## <span style="color:#007acc;">🚀 Competências</span>
