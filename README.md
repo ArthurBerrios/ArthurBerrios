@@ -1,16 +1,29 @@
-### Hi there 👋
+<!-- Título -->
+# <span style="color:#007acc;">🚀 Arthur Berrios 🚀</span>
 
-<!--
-**ArthurBerrios/ArthurBerrios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Sobre Mim -->
+## <span style="color:#007acc;">👨‍💻 Sobre Mim</span>
+Olá! Eu sou Arthur Berrios, um estudante apaixonado por Tecnologia da Informação. Atualmente, estou cursando Sistemas de Informação na Universidade Paulista (UNIP) e possuo formação técnica em Desenvolvimento de Sistemas pela Escola Técnica de São Paulo.
 
-Here are some ideas to get you started:
+<!-- Competências -->
+## <span style="color:#007acc;">🚀 Competências</span>
+- **C#:** Desenvolvimento na plataforma .NET
+- **PHP:** Programação web dinâmica
+- **SQL:** Gerenciamento eficiente de bancos de dados
+- **JavaScript:** Desenvolvimento web moderno
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Projetos -->
+## <span style="color:#007acc;">🛠 Projetos</span>
+Explore alguns dos meus [projetos](link_para_projetos) que demonstram minha experiência e habilidades em diferentes áreas da programação. Fique à vontade para clonar ou contribuir!
+
+<!-- Formação -->
+## <span style="color:#007acc;">🎓 Formação</span>
+- Técnico em Desenvolvimento de Sistemas pela Escola Técnica de São Paulo.
+- Estudante de Sistemas de Informação na Universidade Paulista (UNIP).
+
+<!-- Contato -->
+## <span style="color:#007acc;">📬 Contato</span>
+- **LinkedIn:** [Arthur Berrios](linkedin.com/in/arthur-berrios-1662082a8)
+- **E-mail:** [arthurbralmeida@gmail.com](mailto:arthurbralmeida@gmail.com)
+
+<span style="font-size:0.8em; color:#666;">Fique à vontade para entrar em contato para discussões técnicas, colaborações ou apenas para trocar ideias sobre o fascinante mundo da Tecnologia da Informação!</span>
