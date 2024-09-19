@@ -1,7 +1,6 @@
 <!-- Título -->
 # <span style="color:#007acc;">🚀 Arthur Berrios 🚀</span>
-!GIF animado
-Link para o GIF
+
 <!-- Sobre Mim -->
 ## <span style="color:#007acc;">👨‍💻 Sobre Mim</span>
 Olá! Eu sou Arthur Berrios, um jovem estudante apaixonado por Tecnologia da Informação, em busca de oportunidades para aplicar e expandir meus conhecimentos. Comprometido em aprender sempre, sou motivado e procuro novas experiências.
