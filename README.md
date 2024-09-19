@@ -2,8 +2,8 @@
 <h1 align="left">Olá, Eu sou o Arthur</h1>
 
 <p align="left">
-• 🎓 Estudante de Sistemas de Informações na <a href="https://www.unip.br/ target="_blank"">UNIP</a>.<BR>
-• 🎓 Técnico em Desenvolvimento de Sistemas na <a href="https://etecsp.cps.sp.gov.br/pagina-exemplo-2/ target="_blank"">Escola Técnica de São Paulo</a>.<BR>
+• 🎓 Estudante de Sistemas de Informações na <a href="https://www.unip.br/" target="_blank">UNIP</a>.<BR>
+• 🎓 Técnico em Desenvolvimento de Sistemas na <a href="https://etecsp.cps.sp.gov.br/pagina-exemplo-2/" target="_blank">Escola Técnica de São Paulo</a>.<BR>
 </p>
 
 ## 🚀 Competências
