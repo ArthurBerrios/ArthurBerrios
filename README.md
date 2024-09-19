@@ -6,7 +6,7 @@
 • 🎓 Técnico em Desenvolvimento de Sistemas na <a href="https://etecsp.cps.sp.gov.br/pagina-exemplo-2/">Escola Técnica de São Paulo</a>.<BR>
 </p>
 
-## 🚀 Competência
+## 🚀 Competências
 
 <p align="left">
    
@@ -14,22 +14,21 @@
     
 </p>
 
-## 📈 Statistics
+## 📈 Estatísticas
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurscarpin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+<<div>
+<a href="https://github.com/ArthurBerrios">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## Let's get in touch
+## Entre em contato
 
 <div align="left">
-    <a href="https://www.linkedin.com/in/dev-arthurscarpin" target="_blank">
+    <a href="www.linkedin.com/in/arthur-berrios-1662082a8" target="_blank">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"/>
     </a>
-    <a href="https://discord.com/channels/@_arthurscarpin" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"/>
-    </a>
-    <a href = "mailto:scarpinarthur.dev@gmail.com" target="_blank">
+    <a href = "mailto:arthurbralmeida@gmail.com" target="_blank">
       <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="30" alt="gmail logo">
     </a>
 </div>
