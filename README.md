@@ -1,29 +1,46 @@
-<!-- Título -->
-# <span style="color:#007acc;">🚀 Arthur Berrios 🚀</span>
+![header](https://capsule-render.vercel.app/api?type=Waving&color=092e20&height=200&section=header&text=Fullstack%20Developer&fontSize=60&animation=fadeIn&fontColor=ffffff)
+<h1 align="left">Hi, I`m Arthur</h1>
 
-<!-- Sobre Mim -->
-## <span style="color:#007acc;">👨‍💻 Sobre Mim</span>
-Olá! Eu sou Arthur Berrios, um jovem estudante apaixonado por Tecnologia da Informação, em busca de oportunidades para aplicar e expandir meus conhecimentos. Comprometido em aprender sempre, sou motivado e procuro novas experiências.
+<p align="left">
+• 🎓 I'm graduated in Information System at <a href="https://www.unip.br/">UNIP</a>.<BR>
+• 🧠 Enhancing my skills at <a href="https://www.alura.com.br/">ALURA</a>.<BR>
+</p>
 
-<!-- Competências -->
-## <span style="color:#007acc;">🚀 Competências</span>
-- **C#:** Desenvolvimento na plataforma .NET
-- **PHP:** Programação web dinâmica
-- **SQL:** Gerenciamento eficiente de bancos de dados
-- **JavaScript:** Desenvolvimento web moderno
+## 🚀 My Tech Stack
 
-<!-- Projetos -->
-## <span style="color:#007acc;">🛠 Projetos</span>
-Explore alguns dos meus projetos que demonstram minha experiência e habilidades em diferentes áreas da programação. Fique à vontade!
+<p align="left">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,python"/>
+        <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,python,flask"/>
+    </a>
+</p>
 
-<!-- Formação -->
-## <span style="color:#007acc;">🎓 Formação</span>
-- Técnico em Desenvolvimento de Sistemas pela Escola Técnica de São Paulo.
-- Estudante de Sistemas de Informação na Universidade Paulista (UNIP).
+## 🛠️ Tools I use on a daily basis
 
-<!-- Contato -->
-## <span style="color:#007acc;">📬 Contato</span>
-- **LinkedIn:** Arthur Berrios
-- **E-mail:** arthurbralmeida@gmail.com
+<p align="left">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vscode,git,postman,gcp"/>
+    </a>
+</p>
 
-<span style="font-size:0.8em; color:#666;">Fique à vontade para entrar em contato para discussões técnicas, colaborações ou apenas para trocar ideias sobre o fascinante mundo da Tecnologia da Informação!</span>
+## 📈 Statistics
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurscarpin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+## Let's get in touch
+
+<div align="left">
+    <a href="https://www.linkedin.com/in/dev-arthurscarpin" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"/>
+    </a>
+    <a href="https://discord.com/channels/@_arthurscarpin" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"/>
+    </a>
+    <a href = "mailto:scarpinarthur.dev@gmail.com" target="_blank">
+      <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="30" alt="gmail logo">
+    </a>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=092e20&height=120&section=footer"/>
