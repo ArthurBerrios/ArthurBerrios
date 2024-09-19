@@ -11,6 +11,7 @@
 <p align="left">
     <a href="https://skillicons.dev">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" style = "width:50px; heigth:50px" />  
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
     
 </p>
 
