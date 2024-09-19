@@ -2,34 +2,21 @@
 <h1 align="left">Hi, I`m Arthur</h1>
 
 <p align="left">
-• 🎓 I'm graduated in Information System at <a href="https://www.unip.br/">UNIP</a>.<BR>
-• 🧠 Enhancing my skills at <a href="https://www.alura.com.br/">ALURA</a>.<BR>
+• 🎓 Estou cursando Sistemas de Informação na <a href="https://www.unip.br/">UNIP</a>.<BR>
+• 🧠 Sou técnico em desenvolvimento de Sistemas pela <a href="https://etecsp.cps.sp.gov.br/pagina-exemplo-2/</a>.<BR>
 </p>
 
-## 🚀 My Tech Stack
+🚀 My Tech Stack
+<p align=“left”> <a href=“https://skillicons.dev”> <img src=“https://skillicons.dev/icons?i=html,css,php,sql,csharp,dotnet,js”/> </a> </p>
 
-<p align="left">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,python"/>
-        <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,python,flask"/>
-    </a>
-</p>
+🛠️ Tools I use on a daily basis
+<p align=“left”> <a href=“https://skillicons.dev”> <img src=“https://skillicons.dev/icons?i=vscode,git,postman,gcp”/> </a> </p>
 
-## 🛠️ Tools I use on a daily basis
+📈 Statistics
+<div align=“left”> <img src=“https://github-readme-stats.vercel.app/api/top-langs?username=arthurscarpin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2” height=“150” alt=“languages graph” /> </div>
 
-<p align="left">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,git,postman,gcp"/>
-    </a>
-</p>
-
-## 📈 Statistics
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurscarpin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-## Let's get in touch
+Let’s get in touch
+<img src=“https://capsule-render.vercel.app/api?type=waving&color=092e20&height=120&section=footer”/>
 
 <div align="left">
     <a href="https://www.linkedin.com/in/dev-arthurscarpin" target="_blank">
