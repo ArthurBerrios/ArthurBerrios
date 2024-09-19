@@ -2,10 +2,10 @@
 <h1 align="left">Hi, I`m Arthur</h1>
 
 <p align="left">
-• 🎓 Estou cursando Sistemas de Informação na <a href="https://www.unip.br/">UNIP</a>.<BR>
-• 🧠 Sou técnico em desenvolvimento de Sistemas pela <a href="https://etecsp.cps.sp.gov.br/pagina-exemplo-2/</a>.<BR>
+• 🎓 I'm graduated in Information System at <a href="https://www.unip.br/">UNIP</a>.<BR>
+• 🧠 Enhancing my skills at <a href="https://www.alura.com.br/">ALURA</a>.<BR>
 </p>
-<BR>
+
 ## 🚀 My Tech Stack
 
 <p align="left">
@@ -31,7 +31,6 @@
 
 ## Let's get in touch
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=092e20&height=120&section=footer"/>
 <div align="left">
     <a href="https://www.linkedin.com/in/dev-arthurscarpin" target="_blank">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"/>
