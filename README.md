@@ -1,16 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=092e20&height=200&section=header&text=Fullstack%20Developer&fontSize=60&animation=fadeIn&fontColor=ffffff)
-<h1 align="left">Hi, I`m Arthur</h1>
+<h1 align="left">Olá, Eu sou o Arthur</h1>
 
 <p align="left">
-• 🎓 I'm graduated in Information System at <a href="https://www.unip.br/">UNIP</a>.<BR>
-• 🧠 Enhancing my skills at <a href="https://www.alura.com.br/">ALURA</a>.<BR>
+• 🎓 Estudante de Sistemas de Informações na <a href="https://www.unip.br/">UNIP</a>.<BR>
+• 🎓 Técnico em Desenvolvimento de Sistemas na <a href="https://etecsp.cps.sp.gov.br/pagina-exemplo-2/">Escola Técnica de São Paulo</a>.<BR>
 </p>
 
-## 🚀 My Tech Stack
+## 🚀 Competência
 
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=php,cs,js,mysql,html,css,%22"/>
+        <img src="https://skillicons.dev/icons?i=php,cs,js,mysql,html,css,%22"/><img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg"/>
         
     </a>
 </p>
