@@ -10,7 +10,7 @@
 
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=php,cs,js,mysql,html,css,"/><img src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" style = "width:50px; heigth:50px;margin:0;"/>
+        <img src="https://skillicons.dev/icons?i=php,cs,js,mysql,html,css,"/><img src="https://w7.pngwing.com/pngs/278/609/png-transparent-microsoft-sql-server-sql-server-management-studio-windows-server-2008-database-performance-angle-symmetry-shoe.png" style = "width:50px; heigth:50px;margin:0;"/>
     
 </p>
 
