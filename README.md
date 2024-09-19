@@ -10,16 +10,8 @@
 
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,python"/>
-        <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,python,flask"/>
-    </a>
-</p>
-
-## 🛠️ Tools I use on a daily basis
-
-<p align="left">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,git,postman,gcp"/>
+        <img src="https://skillicons.dev/icons?i=php,cs,js,mysql,html,css,%22"/>
+        
     </a>
 </p>
 
