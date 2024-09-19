@@ -10,7 +10,7 @@
 
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=php,cs,js,mysql,html,css,%22"/><img src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" style = "width:40px; heigth:40px; text-align:center; padding-right:-20"/>
+        <img src="https://skillicons.dev/icons?i=php,cs,js,mysql,html,css,%22"/><img src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" style = "width:40px; heigth:40px; text-align:center; padding-right:-20px"/>
     
 </p>
 
