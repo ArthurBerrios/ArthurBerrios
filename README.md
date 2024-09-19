@@ -10,7 +10,7 @@
 
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=php,cs,js,mysql,html,css,%22"/><img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg"/>
+        <img src="https://skillicons.dev/icons?i=php,cs,js,mysql,html,css,%22"/><img src="<img src="https://skillicons.dev/icons?i=php,cs,js,mysql,html,css,%22"/>"/>
         
     </a>
 </p>
