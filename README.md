@@ -10,9 +10,8 @@
 
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=php,cs,js,mysql,html,css,%22"/><img src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png"/>
-        
-    </a>
+        <img src="https://skillicons.dev/icons?i=php,cs,js,mysql,html,css,%22"/><img src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png,22%"/>
+    
 </p>
 
 ## 📈 Statistics
