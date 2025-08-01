@@ -9,7 +9,7 @@
 ## 🚀 Competências
 
 <p align="left">
-   <img src="https://skillicons.dev/icons?i=php,cs,laravel,mysql,html,css"/> <img src="https://martinsblog.dk/wp-content/uploads/2021/07/sql-logo.png" style = "width:50px; heigth:50px"/>
+   <img src="https://skillicons.dev/icons?i=laravel,php,mysql,cs,html,css"/>
 </p>
 
 ![Snake animation](https://github.com/ArthurBerrios/ArthurBerrios/blob/output/github-contribution-grid-snake.svg)
