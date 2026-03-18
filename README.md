@@ -1,4 +1,4 @@
-![header]https://capsule-render.vercel.app/api?type=Waving&color=092e20&height=200&section=header&text=Desenvolvedor%20Back-end&fontSize=60&animation=fadeIn&fontColor=ffffff
+![header]https://capsule-render.vercel.app/api?type=Waving&color=092e20&height=200&section=header&text=Desenvolvedor%20Back-end&fontSize=60&animation=fadeIn&fontColor=ffffff.
 <h1 align="left">Olá, Eu sou o Arthur</h1>
 
 ## 🚀 Competências
