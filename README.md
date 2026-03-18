@@ -1,10 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=092e20&height=200&section=header&text=Fullstack%20Developer&fontSize=60&animation=fadeIn&fontColor=ffffff)
+![header]https://capsule-render.vercel.app/api?type=Waving&color=092e20&height=200&section=header&text=Desenvolvedor%20Back-end&fontSize=60&animation=fadeIn&fontColor=ffffff
 <h1 align="left">Olá, Eu sou o Arthur</h1>
-
-<p align="left">
-• 🎓 Estudante de Sistemas de Informações na <a href="https://www.unip.br/" target="_blank">UNIP</a>.<BR>
-• 🎓 Técnico em Desenvolvimento de Sistemas na <a href="https://etecsp.cps.sp.gov.br/pagina-exemplo-2/" target="_blank">Escola Técnica de São Paulo</a>.<BR>
-</p>
 
 ## 🚀 Competências
 
@@ -13,14 +8,6 @@
 </p>
 
 ![Snake animation](https://github.com/ArthurBerrios/ArthurBerrios/blob/output/github-contribution-grid-snake.svg)
-
-## 📈 Estatísticas
-
-<div>
-<a href="https://github.com/ArthurBerrios">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBerrios&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurBerrios&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 ## Entre em contato
 
